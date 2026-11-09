@@ -1,0 +1,9 @@
+body { background: #f5f6fa; }
+.card { background: #fff; border: 1px solid #dde1e7; border-radius: 8px; margin-bottom: 16px; }
+.card-body { padding: 16px; }
+.card-title { margin-top: 0; font-size: 1.1rem; font-weight: 600; }
+.section-title { margin: 24px 0 12px; }
+.dark-box { background: #212529; color: #f8f9fa; }
+.light-box { background: #fff; color: #212529; }
+.btn { margin: 0 6px 6px 0; }
+.done { text-decoration: line-through; color: #888; }
